@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/.github/">
+    <File Path=".github/renovate.json" />
+  </Folder>
+  <Folder Name="/.github/workflows/">
+    <File Path=".github/workflows/build-and-test.yml" />
+    <File Path=".github/workflows/codeql.yml" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/Soenneker.Locks.Files/Soenneker.Locks.Files.csproj" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="test/Soenneker.Locks.Files.TestWorker/Soenneker.Locks.Files.TestWorker.csproj" />
+    <Project Path="test/Soenneker.Locks.Files.Tests/Soenneker.Locks.Files.Tests.csproj" />
+  </Folder>
+</Solution>
