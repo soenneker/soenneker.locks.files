@@ -40,7 +40,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="Soenneker.Utils.Runtime" Version="11.0.1163" />
+        <PackageReference Include="Soenneker.Utils.Runtime" Version="11.0.1167" />
     </ItemGroup>
 
     <ItemGroup>
